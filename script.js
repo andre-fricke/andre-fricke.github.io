@@ -28,22 +28,22 @@ const RECOMMENDATIONS = [
   },
   {
     number: "02",
-    file: "",
-    source: { de: "Kunde / Projekt", en: "Client / project" },
-    title: { de: "Projektnachweis", en: "Project reference" },
+    file: "assets/recommendations/Empfehlungsschreiben_BMW_Andre_Fricke.pdf",
+    source: { de: "BMW Group", en: "BMW Group" },
+    title: { de: "Empfehlungsschreiben · DevOps Engineer", en: "Letter of recommendation · DevOps Engineer" },
     description: {
-      de: "Platzhalter für einen Nachweis über Rolle, Beitrag und Ergebnis.",
-      en: "Placeholder for a reference covering role, contribution and outcome.",
+      de: "Empfehlungsschreiben aus meinem Einsatz als DevOps Engineer bei BMW.",
+      en: "Letter of recommendation from my engagement as a DevOps Engineer at BMW (document in German).",
     },
   },
   {
     number: "03",
-    file: "",
-    source: { de: "Kunde / Projekt", en: "Client / project" },
-    title: { de: "Weitere Referenz", en: "Additional reference" },
+    file: "assets/recommendations/Empfehlungsschreiben_DB_Regio_Andre_Fricke.pdf",
+    source: { de: "DB Regio AG", en: "DB Regio AG" },
+    title: { de: "Empfehlungsschreiben · DevOps Engineer", en: "Letter of recommendation · DevOps Engineer" },
     description: {
-      de: "Platzhalter für ein weiteres Empfehlungsschreiben oder Arbeitszeugnis.",
-      en: "Placeholder for another recommendation or professional reference.",
+      de: "Empfehlungsschreiben aus meiner Zusammenarbeit mit DB Regio.",
+      en: "Letter of recommendation from my engagement with DB Regio (document in German).",
     },
   },
 ];
