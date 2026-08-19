@@ -14,7 +14,7 @@ Danach `http://localhost:8080` im Browser öffnen. Alternativ funktioniert die H
 
 ## Vor der Veröffentlichung ergänzen
 
-- In `script.js` unter `PROFILE_LINKS` bei Bedarf die noch fehlende LinkedIn-URL eintragen. Xing, GULP und freelance.de sind bereits verknüpft.
+- Die Profil-Links für LinkedIn, Xing, GULP und freelance.de sind in `script.js` unter `PROFILE_LINKS` zentral gepflegt.
 - Empfehlungsschreiben nach `assets/recommendations/` kopieren und unter `RECOMMENDATIONS` in `script.js` eintragen. Eine genaue Kurzanleitung liegt im PDF-Ordner.
 - Nach Auswahl des Hostings den Anbieter und die tatsächliche Server-Protokollierung in `datenschutz.html` ergänzen.
 - Prüfen, ob Umsatzsteuer-/Wirtschafts-Identifikationsnummer, Registereintrag oder andere besondere Pflichtangaben im Impressum ergänzt werden müssen.

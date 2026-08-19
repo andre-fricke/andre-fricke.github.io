@@ -3,7 +3,7 @@
  * Add full https:// URLs to enable the social links.
  */
 const PROFILE_LINKS = {
-  linkedin: "",
+  linkedin: "https://www.linkedin.com/in/andr%C3%A9-fricke-71642342b/",
   xing: "https://www.xing.com/profile/Andre_Fricke5",
   gulp: "https://www.gulp.de/gulp2/g/spezialisten/profil/9haudsl9nc",
   freelance: "https://www.freelance.de/freelancer/272626-Senior-DevOps-Engineer-Developer",
