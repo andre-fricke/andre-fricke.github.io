@@ -4,8 +4,9 @@
  */
 const PROFILE_LINKS = {
   linkedin: "",
-  xing: "",
-  gulp: "",
+  xing: "https://www.xing.com/profile/Andre_Fricke5",
+  gulp: "https://www.gulp.de/gulp2/g/spezialisten/profil/9haudsl9nc",
+  freelance: "https://www.freelance.de/freelancer/272626-Senior-DevOps-Engineer-Developer",
 };
 
 /*
