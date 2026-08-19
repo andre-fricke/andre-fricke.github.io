@@ -64,7 +64,7 @@ const translations = {
     sendInquiry: "Send project brief",
     viewProjects: "View projects",
     yearsEnterprise: "years enterprise",
-    basedIn: "Isernhagen · Germany",
+    basedIn: "Hanover · Germany",
     selectedClients: "Selected enterprise projects",
     clientIntro: "Experience in complex, regulated and business-critical environments.",
     brandNote: "Project references from external engagements. The use of trademarks does not imply a current partnership or endorsement.",
