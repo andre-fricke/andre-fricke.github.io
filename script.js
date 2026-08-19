@@ -62,7 +62,7 @@ const translations = {
     heroTitle: "Cloud platforms<br />that <em>move teams forward.</em>",
     heroIntro: "I build secure, scalable AWS platforms and automate the path from idea to production — hands-on, as code and designed for real-world operations.",
     sendInquiry: "Send project brief",
-    downloadProfile: "Download profile as PDF",
+    viewProjects: "View projects",
     yearsEnterprise: "years enterprise",
     basedIn: "Hanover · Germany",
     selectedClients: "Selected enterprise projects",
