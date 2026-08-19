@@ -10,7 +10,7 @@ const PROFILE_LINKS = {
 };
 
 /*
- * Recommendation letter configuration.
+ * Recommendation and credential document configuration.
  * 1. Copy each PDF to assets/recommendations/.
  * 2. Add its relative path in `file`.
  * 3. Replace the placeholder title, source and description.
@@ -18,12 +18,12 @@ const PROFILE_LINKS = {
 const RECOMMENDATIONS = [
   {
     number: "01",
-    file: "",
-    source: { de: "Kunde / Projekt", en: "Client / project" },
-    title: { de: "Empfehlungsschreiben", en: "Letter of recommendation" },
+    file: "assets/recommendations/Arbeitszeugnis_TUI_DevOps_Engineer.pdf",
+    source: { de: "TUI InfoTec GmbH", en: "TUI InfoTec GmbH" },
+    title: { de: "Zwischenzeugnis · DevOps Engineer", en: "Interim employment reference · DevOps Engineer" },
     description: {
-      de: "Platzhalter für eine persönliche Kundenempfehlung als PDF.",
-      en: "Placeholder for a personal client recommendation in PDF format.",
+      de: "Zwischenzeugnis aus meiner Tätigkeit als DevOps Engineer bei TUI.",
+      en: "Interim employment reference from my time as a DevOps Engineer at TUI (document in German).",
     },
   },
   {
@@ -119,8 +119,8 @@ const translations = {
     hideArchive: "Hide earlier projects",
     recommendationsKicker: "Recommendations & credentials",
     recommendationsTitle: "Experience matters.<br /><em>Trust matters more.</em>",
-    recommendationsSummary: "This is where clients will find personal letters of recommendation and project references as PDFs.",
-    recommendationHint: "<strong>Ready for your PDFs:</strong> Letters can be added later with just a few file details — including preview and download.",
+    recommendationsSummary: "Clients can find letters of recommendation, employment references and project credentials here as PDFs.",
+    recommendationHint: "<strong>Available directly:</strong> Credentials can be viewed as PDFs on this page and opened separately if needed.",
     contactKicker: "Ready for the next engagement",
     contactTitle: "Let’s talk about<br /><em>your platform.</em>",
     contactIntro: "Send me your project brief directly by email — or call me for an initial conversation.",

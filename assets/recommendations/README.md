@@ -1,4 +1,4 @@
-# Empfehlungsschreiben einbinden
+# Empfehlungen und Nachweise einbinden
 
 1. PDF-Dateien in diesen Ordner kopieren. Aussagekräftige, URL-taugliche Namen verwenden, zum Beispiel `empfehlung-db-2026.pdf`.
 2. In `script.js` oben den Eintrag unter `RECOMMENDATIONS` anpassen.
