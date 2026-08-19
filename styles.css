@@ -479,6 +479,34 @@ h2 em {
   font-weight: 750;
 }
 
+.profile-download {
+  gap: 13px;
+  padding-block: 8px;
+}
+
+.profile-download-copy {
+  display: grid;
+  gap: 2px;
+}
+
+.profile-download small {
+  color: var(--muted);
+  font-size: 9px;
+  font-weight: 650;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.profile-download svg {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 1.6;
+}
+
 .hero-visual {
   justify-self: end;
   width: min(100%, 490px);
