@@ -425,6 +425,7 @@ h2 em {
 .hero-actions {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: 30px;
 }
 
@@ -467,6 +468,22 @@ h2 em {
 .button-primary:focus-visible {
   background: var(--ink-soft);
   box-shadow: 0 16px 38px rgba(7, 21, 20, 0.22);
+}
+
+.button-secondary {
+  border-color: var(--ink);
+  background: rgba(255, 255, 255, 0.42);
+  color: var(--ink);
+}
+
+.button-secondary:hover,
+.button-secondary:focus-visible {
+  background: var(--acid);
+  border-color: var(--acid);
+}
+
+.profile-download svg {
+  stroke-linejoin: round;
 }
 
 .text-link {

@@ -63,6 +63,7 @@ const translations = {
     heroIntro: "I build secure, scalable AWS platforms and automate the path from idea to production — hands-on, as code and designed for real-world operations.",
     sendInquiry: "Send project brief",
     viewProjects: "View projects",
+    downloadProfile: "Download profile",
     yearsEnterprise: "years enterprise",
     basedIn: "Hanover · Germany",
     selectedClients: "Selected enterprise projects",
